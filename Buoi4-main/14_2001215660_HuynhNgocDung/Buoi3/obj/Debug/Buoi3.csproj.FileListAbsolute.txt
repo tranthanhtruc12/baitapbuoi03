@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2001215660-HuynhNgocDung\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+E:\LuuDuLieuSinhVien\2001215660-HuynhNgocDung\Buoi3\Buoi3\obj\Debug\Buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001215660-HuynhNgocDung\Buoi3\Buoi3\obj\Debug\Buoi3.My_Name_Project.resources
+E:\LuuDuLieuSinhVien\2001215660-HuynhNgocDung\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001215660-HuynhNgocDung\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001215660-HuynhNgocDung\14_2001215660_HuynhNgocDung\Buoi3\bin\Debug\Buoi3.exe.config
